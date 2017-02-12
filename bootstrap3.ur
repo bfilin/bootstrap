@@ -38,7 +38,7 @@ style carousel_caption
 style carousel_control
 style carousel_indicators
 style carousel_inner
-ctyel center_block
+style center_block
 style checkbox
 style checkbox_inline
 style clearfix
