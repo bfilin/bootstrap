@@ -38,6 +38,7 @@ style carousel_caption
 style carousel_control
 style carousel_indicators
 style carousel_inner
+ctyel center_block
 style checkbox
 style checkbox_inline
 style clearfix
@@ -452,6 +453,7 @@ style input_lg
 style input_sm
 style invisible
 style ir
+style item
 style jumbotron
 style bs3_label
 style label_danger
@@ -461,6 +463,7 @@ style label_primary
 style label_success
 style label_warning
 style lead
+style left
 style list_group
 style list_group_item
 style list_group_item_heading
@@ -537,8 +540,10 @@ style pull_left
 style pull_right
 style bs3_radio
 style radio_inline
+style right
 style row
 style bs3_show
+style slide
 style sr_only
 style tab_content
 style tabbable
