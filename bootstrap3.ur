@@ -548,6 +548,7 @@ style sr_only
 style tab_content
 style tabbable
 style bs3_table
+style tab_pane
 style table_bordered
 style table_condensed
 style table_hover
